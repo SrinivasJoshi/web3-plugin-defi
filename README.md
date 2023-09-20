@@ -1,15 +1,15 @@
-@chainsafe/web3-plugin-template
+# web3-plugin-defi
+
 ===========
 
-Contributing
-------------
+## Local setup
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+1. cd into the directory
+2. `yarn` to install dependencies
+3.
 
-Please make sure to update tests as appropriate.
+## License
 
-License
--------
+---
 
 [MIT](https://choosealicense.com/licenses/mit/)
